@@ -31,8 +31,8 @@
 
 #### Face Smiling
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||||
+| :----: | :---- | :----: | :---- | :----: | :---- |
 | :grinning: | `:grinning:` | :smiley: | `:smiley:` |
 | :smile: | `:smile:` | :grin: | `:grin:` |
 | :laughing: | `:laughing:` <br /> `:satisfied:` | :sweat_smile: | `:sweat_smile:` |
@@ -43,8 +43,8 @@
 
 #### Face Affection
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | :heart_eyes: | `:heart_eyes:` |
 | :star_struck: | `:star_struck:` | :kissing_heart: | `:kissing_heart:` |
 | :kissing: | `:kissing:` | :relaxed: | `:relaxed:` |
@@ -52,23 +52,23 @@
 
 #### Face Tongue
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :yum: | `:yum:` | :stuck_out_tongue: | `:stuck_out_tongue:` |
 | :stuck_out_tongue_winking_eye: | `:stuck_out_tongue_winking_eye:` | :zany_face: | `:zany_face:` |
 | :stuck_out_tongue_closed_eyes: | `:stuck_out_tongue_closed_eyes:` | :money_mouth_face: | `:money_mouth_face:` |
 
 #### Face Hand
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :hugs: | `:hugs:` | :hand_over_mouth: | `:hand_over_mouth:` |
 | :shushing_face: | `:shushing_face:` | :thinking: | `:thinking:` |
 
 #### Face Neutral Skeptical
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :zipper_mouth_face: | `:zipper_mouth_face:` | :raised_eyebrow: | `:raised_eyebrow:` |
 | :neutral_face: | `:neutral_face:` | :expressionless: | `:expressionless:` |
 | :no_mouth: | `:no_mouth:` | :smirk: | `:smirk:` |
@@ -77,16 +77,16 @@
 
 #### Face Sleepy
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :relieved: | `:relieved:` | :pensive: | `:pensive:` |
 | :sleepy: | `:sleepy:` | :drooling_face: | `:drooling_face:` |
 | :sleeping: | `:sleeping:` | | |
 
 #### Face Unwell
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :mask: | `:mask:` | :face_with_thermometer: | `:face_with_thermometer:` |
 | :face_with_head_bandage: | `:face_with_head_bandage:` | :nauseated_face: | `:nauseated_face:` |
 | :vomiting_face: | `:vomiting_face:` | :sneezing_face: | `:sneezing_face:` |
@@ -96,21 +96,21 @@
 
 #### Face Hat
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :cowboy_hat_face: | `:cowboy_hat_face:` | :partying_face: | `:partying_face:` |
 
 #### Face Glasses
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :sunglasses: | `:sunglasses:` | :nerd_face: | `:nerd_face:` |
 | :monocle_face: | `:monocle_face:` | | |
 
 #### Face Concerned
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :confused: | `:confused:` | :worried: | `:worried:` |
 | :slightly_frowning_face: | `:slightly_frowning_face:` | :frowning_face: | `:frowning_face:` |
 | :open_mouth: | `:open_mouth:` | :hushed: | `:hushed:` |
@@ -126,8 +126,8 @@
 
 #### Face Negative
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :triumph: | `:triumph:` | :pout: | `:pout:` <br /> `:rage:` |
 | :angry: | `:angry:` | :cursing_face: | `:cursing_face:` |
 | :smiling_imp: | `:smiling_imp:` | :imp: | `:imp:` |
@@ -135,8 +135,8 @@
 
 #### Face Costume
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :hankey: | `:hankey:` <br /> `:poop:` <br /> `:shit:` | :clown_face: | `:clown_face:` |
 | :japanese_ogre: | `:japanese_ogre:` | :japanese_goblin: | `:japanese_goblin:` |
 | :ghost: | `:ghost:` | :alien: | `:alien:` |
@@ -144,8 +144,8 @@
 
 #### Cat Face
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :smiley_cat: | `:smiley_cat:` | :smile_cat: | `:smile_cat:` |
 | :joy_cat: | `:joy_cat:` | :heart_eyes_cat: | `:heart_eyes_cat:` |
 | :smirk_cat: | `:smirk_cat:` | :kissing_cat: | `:kissing_cat:` |
@@ -154,15 +154,15 @@
 
 #### Monkey Face
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` |
 | :speak_no_evil: | `:speak_no_evil:` | | |
 
 #### Emotion
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :kiss: | `:kiss:` | :love_letter: | `:love_letter:` |
 | :cupid: | `:cupid:` | :gift_heart: | `:gift_heart:` |
 | :sparkling_heart: | `:sparkling_heart:` | :heartpulse: | `:heartpulse:` |
@@ -203,16 +203,16 @@
 
 #### Hand Fingers Open
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :wave: | `:wave:` | :raised_back_of_hand: | `:raised_back_of_hand:` |
 | :raised_hand_with_fingers_splayed: | `:raised_hand_with_fingers_splayed:` | :hand: | `:hand:` <br /> `:raised_hand:` |
 | :vulcan_salute: | `:vulcan_salute:` | | |
 
 #### Hand Fingers Partial
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :ok_hand: | `:ok_hand:` | :pinching_hand: | `:pinching_hand:` |
 | :v: | `:v:` | :crossed_fingers: | `:crossed_fingers:` |
 | :love_you_gesture: | `:love_you_gesture:` | :metal: | `:metal:` |
@@ -220,39 +220,39 @@
 
 #### Hand Single Finger
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :point_left: | `:point_left:` | :point_right: | `:point_right:` |
 | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` |
 | :point_down: | `:point_down:` | :point_up: | `:point_up:` |
 
 #### Hand Fingers Closed
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :+1: | `:+1:` <br /> `:thumbsup:` | :-1: | `:-1:` <br /> `:thumbsdown:` |
 | :fist: | `:fist:` <br /> `:fist_raised:` | :facepunch: | `:facepunch:` <br /> `:fist_oncoming:` <br /> `:punch:` |
 | :fist_left: | `:fist_left:` | :fist_right: | `:fist_right:` |
 
 #### Hands
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :clap: | `:clap:` | :raised_hands: | `:raised_hands:` |
 | :open_hands: | `:open_hands:` | :palms_up_together: | `:palms_up_together:` |
 | :handshake: | `:handshake:` | :pray: | `:pray:` |
 
 #### Hand Prop
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :writing_hand: | `:writing_hand:` | :nail_care: | `:nail_care:` |
 | :selfie: | `:selfie:` | | |
 
 #### Body Parts
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :muscle: | `:muscle:` | :mechanical_arm: | `:mechanical_arm:` |
 | :mechanical_leg: | `:mechanical_leg:` | :leg: | `:leg:` |
 | :foot: | `:foot:` | :ear: | `:ear:` |
@@ -264,8 +264,8 @@
 
 #### Person
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :baby: | `:baby:` | :child: | `:child:` |
 | :boy: | `:boy:` | :girl: | `:girl:` |
 | :adult: | `:adult:` | :blond_haired_person: | `:blond_haired_person:` |
@@ -282,8 +282,8 @@
 
 #### Person Gesture
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :frowning_person: | `:frowning_person:` | :frowning_man: | `:frowning_man:` |
 | :frowning_woman: | `:frowning_woman:` | :pouting_face: | `:pouting_face:` |
 | :pouting_man: | `:pouting_man:` | :pouting_woman: | `:pouting_woman:` |
@@ -302,8 +302,8 @@
 
 #### Person Role
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :health_worker: | `:health_worker:` | :man_health_worker: | `:man_health_worker:` |
 | :woman_health_worker: | `:woman_health_worker:` | :student: | `:student:` |
 | :man_student: | `:man_student:` | :woman_student: | `:woman_student:` |
@@ -343,8 +343,8 @@
 
 #### Person Fantasy
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :angel: | `:angel:` | :santa: | `:santa:` |
 | :mrs_claus: | `:mrs_claus:` | :superhero: | `:superhero:` |
 | :superhero_man: | `:superhero_man:` | :superhero_woman: | `:superhero_woman:` |
@@ -363,8 +363,8 @@
 
 #### Person Activity
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :massage: | `:massage:` | :massage_man: | `:massage_man:` |
 | :massage_woman: | `:massage_woman:` | :haircut: | `:haircut:` |
 | :haircut_man: | `:haircut_man:` | :haircut_woman: | `:haircut_woman:` |
@@ -388,8 +388,8 @@
 
 #### Person Sport
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :person_fencing: | `:person_fencing:` | :horse_racing: | `:horse_racing:` |
 | :skier: | `:skier:` | :snowboarder: | `:snowboarder:` |
 | :golfing: | `:golfing:` | :golfing_man: | `:golfing_man:` |
@@ -415,16 +415,16 @@
 
 #### Person Resting
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :lotus_position: | `:lotus_position:` | :lotus_position_man: | `:lotus_position_man:` |
 | :lotus_position_woman: | `:lotus_position_woman:` | :bath: | `:bath:` |
 | :sleeping_bed: | `:sleeping_bed:` | | |
 
 #### Family
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :people_holding_hands: | `:people_holding_hands:` | :two_women_holding_hands: | `:two_women_holding_hands:` |
 | :couple: | `:couple:` | :two_men_holding_hands: | `:two_men_holding_hands:` |
 | :couplekiss: | `:couplekiss:` | :couplekiss_man_woman: | `:couplekiss_man_woman:` |
@@ -447,8 +447,8 @@
 
 #### Person Symbol
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` |
 | :busts_in_silhouette: | `:busts_in_silhouette:` | :footprints: | `:footprints:` |
 
@@ -465,8 +465,8 @@
 
 #### Animal Mammal
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :monkey_face: | `:monkey_face:` | :monkey: | `:monkey:` |
 | :gorilla: | `:gorilla:` | :orangutan: | `:orangutan:` |
 | :dog: | `:dog:` | :dog2: | `:dog2:` |
@@ -500,8 +500,8 @@
 
 #### Animal Bird
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :turkey: | `:turkey:` | :chicken: | `:chicken:` |
 | :rooster: | `:rooster:` | :hatching_chick: | `:hatching_chick:` |
 | :baby_chick: | `:baby_chick:` | :hatched_chick: | `:hatched_chick:` |
@@ -519,8 +519,8 @@
 
 #### Animal Reptile
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :crocodile: | `:crocodile:` | :turtle: | `:turtle:` |
 | :lizard: | `:lizard:` | :snake: | `:snake:` |
 | :dragon_face: | `:dragon_face:` | :dragon: | `:dragon:` |
@@ -528,8 +528,8 @@
 
 #### Animal Marine
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :whale: | `:whale:` | :whale2: | `:whale2:` |
 | :dolphin: | `:dolphin:` <br /> `:flipper:` | :fish: | `:fish:` |
 | :tropical_fish: | `:tropical_fish:` | :blowfish: | `:blowfish:` |
@@ -538,8 +538,8 @@
 
 #### Animal Bug
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :snail: | `:snail:` | :butterfly: | `:butterfly:` |
 | :bug: | `:bug:` | :ant: | `:ant:` |
 | :bee: | `:bee:` <br /> `:honeybee:` | :beetle: | `:beetle:` |
@@ -549,8 +549,8 @@
 
 #### Plant Flower
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :bouquet: | `:bouquet:` | :cherry_blossom: | `:cherry_blossom:` |
 | :white_flower: | `:white_flower:` | :rosette: | `:rosette:` |
 | :rose: | `:rose:` | :wilted_flower: | `:wilted_flower:` |
@@ -559,8 +559,8 @@
 
 #### Plant Other
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :seedling: | `:seedling:` | :evergreen_tree: | `:evergreen_tree:` |
 | :deciduous_tree: | `:deciduous_tree:` | :palm_tree: | `:palm_tree:` |
 | :cactus: | `:cactus:` | :ear_of_rice: | `:ear_of_rice:` |
@@ -581,8 +581,8 @@
 
 #### Food Fruit
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :grapes: | `:grapes:` | :melon: | `:melon:` |
 | :watermelon: | `:watermelon:` | :mandarin: | `:mandarin:` <br /> `:orange:` <br /> `:tangerine:` |
 | :lemon: | `:lemon:` | :banana: | `:banana:` |
@@ -595,8 +595,8 @@
 
 #### Food Vegetable
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :avocado: | `:avocado:` | :eggplant: | `:eggplant:` |
 | :potato: | `:potato:` | :carrot: | `:carrot:` |
 | :corn: | `:corn:` | :hot_pepper: | `:hot_pepper:` |
@@ -607,8 +607,8 @@
 
 #### Food Prepared
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :bread: | `:bread:` | :croissant: | `:croissant:` |
 | :baguette_bread: | `:baguette_bread:` | :pretzel: | `:pretzel:` |
 | :bagel: | `:bagel:` | :pancakes: | `:pancakes:` |
@@ -628,8 +628,8 @@
 
 #### Food Asian
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :bento: | `:bento:` | :rice_cracker: | `:rice_cracker:` |
 | :rice_ball: | `:rice_ball:` | :rice: | `:rice:` |
 | :curry: | `:curry:` | :ramen: | `:ramen:` |
@@ -642,16 +642,16 @@
 
 #### Food Marine
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :crab: | `:crab:` | :lobster: | `:lobster:` |
 | :shrimp: | `:shrimp:` | :squid: | `:squid:` |
 | :oyster: | `:oyster:` | | |
 
 #### Food Sweet
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :icecream: | `:icecream:` | :shaved_ice: | `:shaved_ice:` |
 | :ice_cream: | `:ice_cream:` | :doughnut: | `:doughnut:` |
 | :cookie: | `:cookie:` | :birthday: | `:birthday:` |
@@ -662,8 +662,8 @@
 
 #### Drink
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :baby_bottle: | `:baby_bottle:` | :milk_glass: | `:milk_glass:` |
 | :coffee: | `:coffee:` | :tea: | `:tea:` |
 | :sake: | `:sake:` | :champagne: | `:champagne:` |
@@ -676,8 +676,8 @@
 
 #### Dishware
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :chopsticks: | `:chopsticks:` | :plate_with_cutlery: | `:plate_with_cutlery:` |
 | :fork_and_knife: | `:fork_and_knife:` | :spoon: | `:spoon:` |
 | :hocho: | `:hocho:` <br /> `:knife:` | :amphora: | `:amphora:` |
@@ -698,8 +698,8 @@
 
 #### Place Map
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :earth_africa: | `:earth_africa:` | :earth_americas: | `:earth_americas:` |
 | :earth_asia: | `:earth_asia:` | :globe_with_meridians: | `:globe_with_meridians:` |
 | :world_map: | `:world_map:` | :japan: | `:japan:` |
@@ -707,8 +707,8 @@
 
 #### Place Geographic
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :mountain_snow: | `:mountain_snow:` | :mountain: | `:mountain:` |
 | :volcano: | `:volcano:` | :mount_fuji: | `:mount_fuji:` |
 | :camping: | `:camping:` | :beach_umbrella: | `:beach_umbrella:` |
@@ -717,8 +717,8 @@
 
 #### Place Building
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :stadium: | `:stadium:` | :classical_building: | `:classical_building:` |
 | :building_construction: | `:building_construction:` | :bricks: | `:bricks:` |
 | :houses: | `:houses:` | :derelict_house: | `:derelict_house:` |
@@ -734,16 +734,16 @@
 
 #### Place Religious
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :church: | `:church:` | :mosque: | `:mosque:` |
 | :hindu_temple: | `:hindu_temple:` | :synagogue: | `:synagogue:` |
 | :shinto_shrine: | `:shinto_shrine:` | :kaaba: | `:kaaba:` |
 
 #### Place Other
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :fountain: | `:fountain:` | :tent: | `:tent:` |
 | :foggy: | `:foggy:` | :night_with_stars: | `:night_with_stars:` |
 | :cityscape: | `:cityscape:` | :sunrise_over_mountains: | `:sunrise_over_mountains:` |
@@ -755,8 +755,8 @@
 
 #### Transport Ground
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :steam_locomotive: | `:steam_locomotive:` | :railway_car: | `:railway_car:` |
 | :bullettrain_side: | `:bullettrain_side:` | :bullettrain_front: | `:bullettrain_front:` |
 | :train2: | `:train2:` | :metro: | `:metro:` |
@@ -784,8 +784,8 @@
 
 #### Transport Water
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :anchor: | `:anchor:` | :boat: | `:boat:` <br /> `:sailboat:` |
 | :canoe: | `:canoe:` | :speedboat: | `:speedboat:` |
 | :passenger_ship: | `:passenger_ship:` | :ferry: | `:ferry:` |
@@ -793,8 +793,8 @@
 
 #### Transport Air
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :airplane: | `:airplane:` | :small_airplane: | `:small_airplane:` |
 | :flight_departure: | `:flight_departure:` | :flight_arrival: | `:flight_arrival:` |
 | :parachute: | `:parachute:` | :seat: | `:seat:` |
@@ -805,14 +805,14 @@
 
 #### Hotel
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :bellhop_bell: | `:bellhop_bell:` | :luggage: | `:luggage:` |
 
 #### Time
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :hourglass: | `:hourglass:` | :hourglass_flowing_sand: | `:hourglass_flowing_sand:` |
 | :watch: | `:watch:` | :alarm_clock: | `:alarm_clock:` |
 | :stopwatch: | `:stopwatch:` | :timer_clock: | `:timer_clock:` |
@@ -832,8 +832,8 @@
 
 #### Sky & Weather
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :new_moon: | `:new_moon:` | :waxing_crescent_moon: | `:waxing_crescent_moon:` |
 | :first_quarter_moon: | `:first_quarter_moon:` | :moon: | `:moon:` <br /> `:waxing_gibbous_moon:` |
 | :full_moon: | `:full_moon:` | :waning_gibbous_moon: | `:waning_gibbous_moon:` |
@@ -869,8 +869,8 @@
 
 #### Event
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :jack_o_lantern: | `:jack_o_lantern:` | :christmas_tree: | `:christmas_tree:` |
 | :fireworks: | `:fireworks:` | :sparkler: | `:sparkler:` |
 | :firecracker: | `:firecracker:` | :sparkles: | `:sparkles:` |
@@ -885,16 +885,16 @@
 
 #### Award Medal
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :medal_military: | `:medal_military:` | :trophy: | `:trophy:` |
 | :medal_sports: | `:medal_sports:` | :1st_place_medal: | `:1st_place_medal:` |
 | :2nd_place_medal: | `:2nd_place_medal:` | :3rd_place_medal: | `:3rd_place_medal:` |
 
 #### Sport
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :soccer: | `:soccer:` | :baseball: | `:baseball:` |
 | :softball: | `:softball:` | :basketball: | `:basketball:` |
 | :volleyball: | `:volleyball:` | :football: | `:football:` |
@@ -912,8 +912,8 @@
 
 #### Game
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :dart: | `:dart:` | :yo_yo: | `:yo_yo:` |
 | :kite: | `:kite:` | :8ball: | `:8ball:` |
 | :crystal_ball: | `:crystal_ball:` | :nazar_amulet: | `:nazar_amulet:` |
@@ -927,8 +927,8 @@
 
 #### Arts & Crafts
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :performing_arts: | `:performing_arts:` | :framed_picture: | `:framed_picture:` |
 | :art: | `:art:` | :thread: | `:thread:` |
 | :yarn: | `:yarn:` | | |
@@ -956,8 +956,8 @@
 
 #### Clothing
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :eyeglasses: | `:eyeglasses:` | :dark_sunglasses: | `:dark_sunglasses:` |
 | :goggles: | `:goggles:` | :lab_coat: | `:lab_coat:` |
 | :safety_vest: | `:safety_vest:` | :necktie: | `:necktie:` |
@@ -983,8 +983,8 @@
 
 #### Sound
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :mute: | `:mute:` | :speaker: | `:speaker:` |
 | :sound: | `:sound:` | :loud_sound: | `:loud_sound:` |
 | :loudspeaker: | `:loudspeaker:` | :mega: | `:mega:` |
@@ -993,8 +993,8 @@
 
 #### Music
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :musical_score: | `:musical_score:` | :musical_note: | `:musical_note:` |
 | :notes: | `:notes:` | :studio_microphone: | `:studio_microphone:` |
 | :level_slider: | `:level_slider:` | :control_knobs: | `:control_knobs:` |
@@ -1003,8 +1003,8 @@
 
 #### Musical Instrument
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :saxophone: | `:saxophone:` | :guitar: | `:guitar:` |
 | :musical_keyboard: | `:musical_keyboard:` | :trumpet: | `:trumpet:` |
 | :violin: | `:violin:` | :banjo: | `:banjo:` |
@@ -1012,16 +1012,16 @@
 
 #### Phone
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :iphone: | `:iphone:` | :calling: | `:calling:` |
 | :phone: | `:phone:` <br /> `:telephone:` | :telephone_receiver: | `:telephone_receiver:` |
 | :pager: | `:pager:` | :fax: | `:fax:` |
 
 #### Computer
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :battery: | `:battery:` | :electric_plug: | `:electric_plug:` |
 | :computer: | `:computer:` | :desktop_computer: | `:desktop_computer:` |
 | :printer: | `:printer:` | :keyboard: | `:keyboard:` |
@@ -1032,8 +1032,8 @@
 
 #### Light & Video
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :movie_camera: | `:movie_camera:` | :film_strip: | `:film_strip:` |
 | :film_projector: | `:film_projector:` | :clapper: | `:clapper:` |
 | :tv: | `:tv:` | :camera: | `:camera:` |
@@ -1045,8 +1045,8 @@
 
 #### Book Paper
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :notebook_with_decorative_cover: | `:notebook_with_decorative_cover:` | :closed_book: | `:closed_book:` |
 | :book: | `:book:` <br /> `:open_book:` | :green_book: | `:green_book:` |
 | :blue_book: | `:blue_book:` | :orange_book: | `:orange_book:` |
@@ -1059,8 +1059,8 @@
 
 #### Money
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :moneybag: | `:moneybag:` | :yen: | `:yen:` |
 | :dollar: | `:dollar:` | :euro: | `:euro:` |
 | :pound: | `:pound:` | :money_with_wings: | `:money_with_wings:` |
@@ -1069,8 +1069,8 @@
 
 #### Mail
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :email: | `:email:` <br /> `:envelope:` | :e-mail: | `:e-mail:` |
 | :incoming_envelope: | `:incoming_envelope:` | :envelope_with_arrow: | `:envelope_with_arrow:` |
 | :outbox_tray: | `:outbox_tray:` | :inbox_tray: | `:inbox_tray:` |
@@ -1081,8 +1081,8 @@
 
 #### Writing
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :pencil2: | `:pencil2:` | :black_nib: | `:black_nib:` |
 | :fountain_pen: | `:fountain_pen:` | :pen: | `:pen:` |
 | :paintbrush: | `:paintbrush:` | :crayon: | `:crayon:` |
@@ -1090,8 +1090,8 @@
 
 #### Office
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :briefcase: | `:briefcase:` | :file_folder: | `:file_folder:` |
 | :open_file_folder: | `:open_file_folder:` | :card_index_dividers: | `:card_index_dividers:` |
 | :date: | `:date:` | :calendar: | `:calendar:` |
@@ -1107,16 +1107,16 @@
 
 #### Lock
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :lock: | `:lock:` | :unlock: | `:unlock:` |
 | :lock_with_ink_pen: | `:lock_with_ink_pen:` | :closed_lock_with_key: | `:closed_lock_with_key:` |
 | :key: | `:key:` | :old_key: | `:old_key:` |
 
 #### Tool
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :hammer: | `:hammer:` | :axe: | `:axe:` |
 | :pick: | `:pick:` | :hammer_and_pick: | `:hammer_and_pick:` |
 | :hammer_and_wrench: | `:hammer_and_wrench:` | :dagger: | `:dagger:` |
@@ -1130,8 +1130,8 @@
 
 #### Science
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :alembic: | `:alembic:` | :test_tube: | `:test_tube:` |
 | :petri_dish: | `:petri_dish:` | :dna: | `:dna:` |
 | :microscope: | `:microscope:` | :telescope: | `:telescope:` |
@@ -1139,16 +1139,16 @@
 
 #### Medical
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :syringe: | `:syringe:` | :drop_of_blood: | `:drop_of_blood:` |
 | :pill: | `:pill:` | :adhesive_bandage: | `:adhesive_bandage:` |
 | :stethoscope: | `:stethoscope:` | | |
 
 #### Household
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :door: | `:door:` | :bed: | `:bed:` |
 | :couch_and_lamp: | `:couch_and_lamp:` | :chair: | `:chair:` |
 | :toilet: | `:toilet:` | :shower: | `:shower:` |
@@ -1161,8 +1161,8 @@
 
 #### Other Object
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :smoking: | `:smoking:` | :coffin: | `:coffin:` |
 | :funeral_urn: | `:funeral_urn:` | :moyai: | `:moyai:` |
 
@@ -1185,8 +1185,8 @@
 
 #### Transport Sign
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :atm: | `:atm:` | :put_litter_in_its_place: | `:put_litter_in_its_place:` |
 | :potable_water: | `:potable_water:` | :wheelchair: | `:wheelchair:` |
 | :mens: | `:mens:` | :womens: | `:womens:` |
@@ -1197,8 +1197,8 @@
 
 #### Warning
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :warning: | `:warning:` | :children_crossing: | `:children_crossing:` |
 | :no_entry: | `:no_entry:` | :no_entry_sign: | `:no_entry_sign:` |
 | :no_bicycles: | `:no_bicycles:` | :no_smoking: | `:no_smoking:` |
@@ -1209,8 +1209,8 @@
 
 #### Arrow
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :arrow_up: | `:arrow_up:` | :arrow_upper_right: | `:arrow_upper_right:` |
 | :arrow_right: | `:arrow_right:` | :arrow_lower_right: | `:arrow_lower_right:` |
 | :arrow_down: | `:arrow_down:` | :arrow_lower_left: | `:arrow_lower_left:` |
@@ -1225,8 +1225,8 @@
 
 #### Religion
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :place_of_worship: | `:place_of_worship:` | :atom_symbol: | `:atom_symbol:` |
 | :om: | `:om:` | :star_of_david: | `:star_of_david:` |
 | :wheel_of_dharma: | `:wheel_of_dharma:` | :yin_yang: | `:yin_yang:` |
@@ -1236,8 +1236,8 @@
 
 #### Zodiac
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :aries: | `:aries:` | :taurus: | `:taurus:` |
 | :gemini: | `:gemini:` | :cancer: | `:cancer:` |
 | :leo: | `:leo:` | :virgo: | `:virgo:` |
@@ -1248,8 +1248,8 @@
 
 #### Av Symbol
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :twisted_rightwards_arrows: | `:twisted_rightwards_arrows:` | :repeat: | `:repeat:` |
 | :repeat_one: | `:repeat_one:` | :arrow_forward: | `:arrow_forward:` |
 | :fast_forward: | `:fast_forward:` | :next_track_button: | `:next_track_button:` |
@@ -1265,22 +1265,22 @@
 
 #### Gender
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :female_sign: | `:female_sign:` | :male_sign: | `:male_sign:` |
 
 #### Math
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :heavy_multiplication_x: | `:heavy_multiplication_x:` | :heavy_plus_sign: | `:heavy_plus_sign:` |
 | :heavy_minus_sign: | `:heavy_minus_sign:` | :heavy_division_sign: | `:heavy_division_sign:` |
 | :infinity: | `:infinity:` | | |
 
 #### Punctuation
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :bangbang: | `:bangbang:` | :interrobang: | `:interrobang:` |
 | :question: | `:question:` | :grey_question: | `:grey_question:` |
 | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` |
@@ -1288,14 +1288,14 @@
 
 #### Currency
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :currency_exchange: | `:currency_exchange:` | :heavy_dollar_sign: | `:heavy_dollar_sign:` |
 
 #### Other Symbol
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :medical_symbol: | `:medical_symbol:` | :recycle: | `:recycle:` |
 | :fleur_de_lis: | `:fleur_de_lis:` | :trident: | `:trident:` |
 | :name_badge: | `:name_badge:` | :beginner: | `:beginner:` |
@@ -1310,8 +1310,8 @@
 
 #### Keycap
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :hash: | `:hash:` | :asterisk: | `:asterisk:` |
 | :zero: | `:zero:` | :one: | `:one:` |
 | :two: | `:two:` | :three: | `:three:` |
@@ -1322,8 +1322,8 @@
 
 #### Alphanum
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :capital_abcd: | `:capital_abcd:` | :abcd: | `:abcd:` |
 | :1234: | `:1234:` | :symbols: | `:symbols:` |
 | :abc: | `:abc:` | :a: | `:a:` |
@@ -1347,8 +1347,8 @@
 
 #### Geometric
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :red_circle: | `:red_circle:` | :orange_circle: | `:orange_circle:` |
 | :yellow_circle: | `:yellow_circle:` | :green_circle: | `:green_circle:` |
 | :large_blue_circle: | `:large_blue_circle:` | :purple_circle: | `:purple_circle:` |
@@ -1375,8 +1375,8 @@
 
 #### Flag
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :checkered_flag: | `:checkered_flag:` | :triangular_flag_on_post: | `:triangular_flag_on_post:` |
 | :crossed_flags: | `:crossed_flags:` | :black_flag: | `:black_flag:` |
 | :white_flag: | `:white_flag:` | :rainbow_flag: | `:rainbow_flag:` |
@@ -1384,8 +1384,8 @@
 
 #### Country Flag
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :ascension_island: | `:ascension_island:` | :andorra: | `:andorra:` |
 | :united_arab_emirates: | `:united_arab_emirates:` | :afghanistan: | `:afghanistan:` |
 | :antigua_barbuda: | `:antigua_barbuda:` | :anguilla: | `:anguilla:` |
@@ -1518,15 +1518,15 @@
 
 #### Subdivision Flag
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :england: | `:england:` | :scotland: | `:scotland:` |
 | :wales: | `:wales:` | | |
 
 ### GitHub Custom Emoji
 
-|  Emoji | Code | Emoji | Code |
-| :----: | :----: | :----: | :----: |
+|||||
+| :----: | :---- | :----: | :---- |
 | :atom: | `:atom:` | :basecamp: | `:basecamp:` |
 | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` |
 | :electron: | `:electron:` | :feelsgood: | `:feelsgood:` |
